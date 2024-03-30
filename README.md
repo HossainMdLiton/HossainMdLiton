@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossainmdliton" alt="hossainmdliton" /></a> </p>
 
-- 🔭 I’m currently working on [HTML,CSS,JAVA, PHP, PYTHON](for creating real time web)
+- 🔭 I’m currently working on HTML,CSS,JAVA, PHP, PYTHON for creating real time web
 
-- 👯 I’m looking to collaborate on [HTML,CSS,JAVA, PHP, PYTHON](projects based on my skills)
+- 👯 I’m looking to collaborate on HTML,CSS,JAVA, PHP, PYTHON projects based on my skills
 
 - 💬 Ask me about **HTML,CSS,JAVA, PHP, PYTHON**
 
