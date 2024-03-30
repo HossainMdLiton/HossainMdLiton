@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Md Liton Hossain</h1>
-<h3 align="center">A passionate frontend and Backend developer from Australia</h3>
+<h1 align="center">Hi, I'm Dr. Md Liton Hossain</h1>
+<h3 align="center">A passionate web developer from Australia</h3>
 
-- 🔭 I’m currently working on HTML,CSS,JAVA, PHP, PYTHON for creating real time web
+- 🔭 I’m currently working on HTML,CSS,JAVA Script, PHP, PYTHON, and MATLAB for creating real time web based projects
 
-- 👯 I’m looking to collaborate on HTML,CSS,JAVA, PHP, PYTHON projects based on my skills
-
-- 💬 Ask me about **HTML,CSS,JAVA, PHP, PYTHON**
+- 👯 I’m looking to collaborate on HTML,CSS,JAVA Script, PHP, PYTHON, and MATLAB for creating real time web based projects
+- 
+- 💬 Ask me about **HTML,CSS,JAVA Script, PHP, PYTHON, and MATLABN**
 
 - 📫 How to reach me **drhossain.mdliton@gmail.com**
 
