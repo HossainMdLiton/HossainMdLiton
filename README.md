@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on HTML,CSS,JAVA Script, PHP, PYTHON, and MATLAB for creating real time web based projects
  
-- 👯 I’m looking to collaborate on HTML,CSS,JAVA Script, PHP, PYTHON, and MATLAB for creating real time web based projects
+-  I’m looking to collaborate on HTML,CSS,JAVA Script, PHP, PYTHON, and MATLAB for creating real time web based projects
  
 - 💬 Ask me about **HTML,CSS,JAVA Script, PHP, PYTHON, and MATLABN**
  
