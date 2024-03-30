@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dr. Md Liton Hossain</h1>
-<h3 align="center">A passionate web developer from Australia</h3>
+<h1 align="center">This is Dr. Md Liton Hossain. Welcome to my official web development site.</h1>
+<h3 align="center">I am a passionate web developer from Australia</h3>
 
 - 🔭 I’m currently working on HTML,CSS,JAVA Script, PHP, PYTHON, and MATLAB for creating real time web based projects
 
